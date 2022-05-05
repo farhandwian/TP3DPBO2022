@@ -7,3 +7,8 @@
 Bahasa yang digunakan adalah Python
 
 ## Hasil
+
+
+https://user-images.githubusercontent.com/68465767/166966697-97ae3b81-cc9e-4675-8084-7242c7e339bb.mp4
+
+video cadangan:https://youtu.be/QeCZ8GPS0O8
